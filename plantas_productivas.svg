@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <style>
+    .title {
+      font-family: "D-DIN", "DIN Next", "Montserrat", Arial, sans-serif;
+      font-weight: 700;
+      fill: #0071DC;
+    }
+  </style>
+
+  <text
+    x="50%"
+    y="45%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-size="96"
+    class="title">
+    Plantas
+  </text>
+
+  <text
+    x="50%"
+    y="70%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-size="96"
+    class="title">
+    Productivas
+  </text>
+</svg>
